@@ -1,0 +1,41 @@
+body {
+  background-color: #e5e5e5;
+  color: #252525;
+  margin: 0;
+}
+#container {
+  width: 90%;
+  max-width: 980px;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: greenyellow;
+}
+#intro {
+  width: 300px;
+  background-color: indigo;
+  margin-right: 20px;
+}
+p {
+  text-align: center;
+}
+button {
+  border: none;
+  background: none;
+  color: #fff;
+}
+.fat {
+  background: #ff5e84;
+  color: #fff;
+}
+#buttons {
+  display: flex;
+  margin-bottom: 32px;
+  justify-content: space-evenly;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  color: #ff5e84;
+}
